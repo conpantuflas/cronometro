@@ -1,0 +1,28 @@
+.bigContentNumber{
+    text-align: center;
+}
+
+.contentNumber{
+    display: flex;
+    justify-content: center;
+}
+
+.sectionTime{
+    display: flex;
+    justify-content: center;
+    width: 3rem;
+    font-size: 2rem;
+    align-items: center;
+    background-color: rgb(198, 213, 219);
+    border: 2px solid rgb(153, 169, 175);
+    border-radius: 15px;
+}
+.twoDots{
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    font-weight: 800;
+}
+.number{
+    margin: 0;
+}
